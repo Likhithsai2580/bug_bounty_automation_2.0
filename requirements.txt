@@ -21,3 +21,7 @@ gitpython
 prompt_toolkit
 pyyaml
 Flask
+python-nmap
+shodan
+pyOpenSSL
+reportlab
