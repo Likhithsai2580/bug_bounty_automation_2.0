@@ -50,7 +50,7 @@ reportlab
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/advanced-vulnerability-scanner.git
+git clone https://github.com/Likhithsai2580/bug_bounty_automation_2.0.git
 cd advanced-vulnerability-scanner
 ```
 
